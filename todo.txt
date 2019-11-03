@@ -1,0 +1,11 @@
+todo in project
+
+Add functionality to :
+  - Add a user
+  - remove a user
+  
+  - For a existing user
+    - Add a trackable item
+    - Remove trackable item
+
+    
